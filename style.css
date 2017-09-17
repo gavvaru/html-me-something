@@ -1,0 +1,31 @@
+section {
+    border:1pX solid blue;
+}
+
+.margin {
+    margin: 20px 10px 10px 10px;
+    color:red;
+
+}
+#pad { 
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+}
+#bground {
+    border:1px solid red;
+    background-color: yellow;
+}
+#caption{
+    color:yellowgreen;
+}
+#shadow {
+    text-shadow: 2px 2px blue;
+}
+a:hover{
+    color:red;
+}
+a:visited{
+    color:blue;
+}
